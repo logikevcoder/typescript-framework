@@ -1,0 +1,1 @@
+## To run the project use parcel index.html, which will build the dist folder and run the project locally
