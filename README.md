@@ -2,6 +2,6 @@
 
 To start the backend json server being built by json-server run
 
-```json-server -w db.json
-
+```
+json-server -w db.json
 ```
